@@ -1,0 +1,148 @@
+body {
+	color: #2AE957;
+	font-family: Verdana, Arial, Geneva, "Arial Black";
+	font-weight: normal;
+	background-color: black;
+}
+
+a {
+	font-size: 18px;
+}
+
+a:link {
+    color: white;  
+    text-decoration: underline;
+}
+
+a:visited {
+    color: purple;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: purple;
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+    text-decoration: underline;
+}
+
+nav {
+	display: block;
+	background-color: #13D5FB;
+	text-align: center;
+	height: 25px
+}
+
+h1 {
+	color: #2AE957;
+	text-align: center;
+	font-weight: bold;
+}
+
+h2 {
+	color: #13D5FB;
+	text-decoration: underline;
+	text-align: center;
+	font-weight: normal;
+}
+
+.divone {
+	color: #2AE957;
+	font-size: 18px;
+	margin-left: 100px;
+}
+
+.divtwo {
+	color: #2AE957;
+	font-size: 18px;
+	margin-left: 100px;
+}
+
+.divthree {
+	color: #2AE957;
+	font-size: 18px;
+	margin-left: 20px;
+}
+
+.image1 {
+	display: block;
+	text-align: middle;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+	background-color: black;	
+	width: 350px;
+	height: 200px;
+	float: right, left;	
+}
+
+.money {
+	display: block;
+	text-align: right;
+	margin-left: auto;
+	margin-right: 300px;
+	padding: 50px;
+	background-color: black;
+	border-color: #2AE957;
+	border-width: 5px;
+	border-style: solid;	
+	width: 500px;
+	height: 350px;
+	float: right;	
+}
+
+table {
+	width: 20%;
+	background-color: black;
+	border: 1px solid #2AE957;
+	margin-left: 100px;
+	color: #FB13CD;
+}
+
+caption {
+	color: #13D5FB;
+	text-align: center;
+	font-weight: bold;
+	font-size: 120%;
+	padding: 20px;
+}
+
+th {
+	height: 50px;
+	text-align: center;
+	vertical-align: middle;
+	padding: 15px;
+	border: 1px solid #2AE957;
+}
+
+td {
+	height: 50px;
+	text-align: left;
+	vertical-align: middle;
+	padding: 15px;
+	border: 1px solid #2AE957;
+}
+
+video {
+	display: block;
+	width: 50%;
+	height: auto;
+	margin: 0 auto;
+}
+
+.top {
+	text-align: center;
+	font-weight: normal;
+	font-size: 15px;
+}
+
+footer {
+	color: #2AE957;
+	text-align: center;
+	font-weight: bold;
+	font-size: 10px;
+}
+
